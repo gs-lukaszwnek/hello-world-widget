@@ -1,5 +1,5 @@
 {
-  "repository": "SchoolKeep/widgets-repository-template",
+  "repository": "gs-lukaszwnek/hello-world-widget",
   "contentFile": "content.html",
   "contentMethod": "GET",
   "requiresAuthentication": false,

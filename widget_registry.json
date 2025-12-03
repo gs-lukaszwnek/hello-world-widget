@@ -8,7 +8,7 @@
       "type": "hello_world_widget",
       "imageName": "hello_world_widget",
       "content": {
-        "endpoint": "https://raw.githubusercontent.com/SchoolKeep/widgets-repository-template/refs/heads/main/widgets/hello_world_widget/content.html",
+        "endpoint": "https://raw.githubusercontent.com/gs-lukaszwnek/hello-world-widget/refs/heads/main/widgets/hello_world_widget/content.html",
         "method": "GET",
         "requiresAuthentication": false,
         "cacheStrategy": "no-cache"
